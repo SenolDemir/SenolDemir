@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ## My Skills 🧠
 
 ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=plastic&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
