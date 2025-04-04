@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 
 
 You can reach me at:
-[senoldemir@ymail.com](mailto:senoldemir@ymail.com)
-📧 Contact me: senoldemir@ymail.com
-**[LinkedIn]**(www.linkedin.com/in/senoldemir)
+[senoldemir@ymail.com](mailto:senoldemir@ymail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senoldemir)  
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/senoldemir)
+
+
 
