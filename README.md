@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Software Development Engineer in Test (SDET) with a passion for testing and improving software quality. I have experience working with various testing methodologies, tools, and frameworks, and enjoy learning new things and collaborating with others to create better solutions. I'm always open to new ideas and challenges, and love being part of a team that values quality and innovation."
+
 <!--
 **SenolDemir/SenolDemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
