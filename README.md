@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ## Contact
 
-You can reach me by   [senoldemir@ymail.com](mailto:senoldemir@ymail.com)   
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/senoldemir)
+**You can reach me by**   [senoldemir@ymail.com](mailto:senoldemir@ymail.com)   
+**You can connect with me on** [LinkedIn](https://www.linkedin.com/in/senoldemir)
  
 
 
