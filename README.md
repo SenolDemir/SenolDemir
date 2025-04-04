@@ -26,3 +26,10 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+
+You can reach me at:
+[senoldemir@ymail.com](mailto:senoldemir@ymail.com)
+📧 Contact me: senoldemir@ymail.com
+**[LinkedIn]**(www.linkedin.com/in/senoldemir)
+
