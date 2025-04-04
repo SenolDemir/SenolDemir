@@ -27,11 +27,12 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
+## Contact
 
-You can reach me at:
-[senoldemir@ymail.com](mailto:senoldemir@ymail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senoldemir)  
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/senoldemir)
+You can reach me:  [senoldemir@ymail.com](mailto:senoldemir@ymail.com)   
+You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senoldemir)  
+
+
 
 
 
