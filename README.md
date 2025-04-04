@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-## Contact
+## Get in Touch
 
 **You can reach me by**   [senoldemir@ymail.com](mailto:senoldemir@ymail.com)   
 **You can connect with me on** [LinkedIn](https://www.linkedin.com/in/senoldemir)
