@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SenolDemir&hide=HTML,CSS&layout=compact)  
 
-## Get in Touch
+## Let's Connect 🤝 
 
 **You can reach me by**   [senoldemir@ymail.com](mailto:senoldemir@ymail.com)   
 **You can connect with me on** [LinkedIn](https://www.linkedin.com/in/senoldemir)
